@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![Facebook](https://www.facebook.com/share/1ChhqaEkhS/)](https://facebook.com/Lima Akter) [![LinkedIn](https://www.linkedin.com/in/limaakter04/)](https://linkedin.com/in/Lima Akter) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ChhqaEkhS/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaakter04/
+) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lima042176@gmail.com) 
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
