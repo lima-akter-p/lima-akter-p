@@ -3,6 +3,11 @@
 # 💫 About Me:
 About<br><br>I am a passionate Frontend Developer with around six months of hands-on learning experience in modern web development. I enjoy turning ideas into responsive and user-friendly websites using JavaScript, React, and Next.js. I am constantly improving my skills by building projects, solving problems, and learning new technologies.<br>I am particularly interested in creating clean UI, improving user experience, and writing readable code. I am open to internships, entry-level roles, and collaborative projects where I can learn from others and contribute my growing skills. My goal is to continue developing as a frontend developer and work on real-world applications.
 
+# what I am doing 
+-I am exploring next.js
+-Building bodern web UI using React & tailwind
+-Learning Backend Development
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ChhqaEkhS/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaakter04/) 
@@ -21,7 +26,7 @@ About<br><br>I am a passionate Frontend Developer with around six months of hand
 
 
 
-)
+
 
 
 
