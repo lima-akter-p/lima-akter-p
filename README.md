@@ -10,8 +10,8 @@ A real-time chat application with messaging, audio & video calling.
 🔗 GitHub Repo: https://github.com/somrat350/Dash-Chat  
 
 ### 📸 Screenshot
-![Dash-Chat](dashChat.png)
-)
+![Dash-Chat](https://github.com/lima-akter-p/lima-akter-p/blob/main/dashChat.png)
+
 
 # what I am doing 
 - I am exploring next.js
