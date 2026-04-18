@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 <br><br>I am a passionate Frontend Developer with around 1 year of hands-on learning experience in modern web development. I enjoy turning ideas into responsive and user-friendly websites using JavaScript, React, and Next.js. I am constantly improving my skills by building projects, solving problems, and learning new technologies.<br>I am particularly interested in creating clean UI, improving user experience, and writing readable code. I am open to internships, entry-level roles, and collaborative projects where I can learn from others and contribute my growing skills. My goal is to continue developing as a frontend developer and work on real-world applications.
+
 ## 🚀 Project: Dash-Chat
 
 Dash-Chat is a full-stack real-time communication platform featuring instant messaging, audio/video calls, friend requests, and privacy-focused user controls.It is a MERN-based real-time chat app using Socket.io and GetStream, supporting messaging, calls, and user management features.
@@ -11,6 +12,17 @@ Dash-Chat is a full-stack real-time communication platform featuring instant mes
 
 ### 📸 Screenshot
 <img width="1810" height="900" alt="Screenshot 2026-04-18 185403" src="https://github.com/user-attachments/assets/f07258b3-c880-4207-b11d-b5578c6d4a7b" />
+
+## 🚀 Project: HomeNest
+
+ContestHub is an online competition platform where creators can easily create and manage contests, and users can participate to test their skills and win exciting prizes. The system is built with three role-based dashboards: Admin, Creator, and User. Creators can publish new contests, while users can join contests and submit their performances. Admin has full control to manage the platform, including changing user roles and approving or rejecting contests to ensure quality and fairness. ContestHub aims to make online competitions simple, engaging, and secure for everyone.
+
+🔗 Live Link: https://smart-home1-web-ed452.web.app
+🔗 GitHub Repo: https://github.com/lima-akter-p/smart-home-client
+
+### 📸 Screenshot
+<img width="1810" height="900" alt="Screenshot 2026-04-18 185403" src="<img width="1760" height="956" alt="Screenshot 2025-12-31 164653" src="https://github.com/user-attachments/assets/37a31231-9bea-4024-8fc1-3733e2879a2a" />
+" />
 
 
 
