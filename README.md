@@ -10,7 +10,7 @@ Dash-Chat is a full-stack real-time communication platform featuring instant mes
 🔗 GitHub Repo: https://github.com/somrat350/Dash-Chat  
 
 ### 📸 Screenshot
-![Dash-Chat]<img width="1841" height="915" alt="Screenshot 2026-04-18 185403" src="https://github.com/user-attachments/assets/f07258b3-c880-4207-b11d-b5578c6d4a7b" />
+![Dash-Chat]<img width="1810" height="900" alt="Screenshot 2026-04-18 185403" src="https://github.com/user-attachments/assets/f07258b3-c880-4207-b11d-b5578c6d4a7b" />
 
 
 
