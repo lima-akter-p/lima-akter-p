@@ -10,7 +10,7 @@ A real-time chat application with messaging, audio & video calling.
 🔗 GitHub Repo: https://github.com/somrat350/Dash-Chat  
 
 ### 📸 Screenshot
-![Dash-Chat](<img width="1841" height="915" alt="Screenshot 2026-04-18 185403" src="https://github.com/user-attachments/assets/f07258b3-c880-4207-b11d-b5578c6d4a7b" />
+![Dash-Chat]<img width="1841" height="915" alt="Screenshot 2026-04-18 185403" src="https://github.com/user-attachments/assets/f07258b3-c880-4207-b11d-b5578c6d4a7b" />
 
 
 
