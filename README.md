@@ -15,14 +15,25 @@ Dash-Chat is a full-stack real-time communication platform featuring instant mes
 
 ## 🚀 Project: HomeNest
 
-ContestHub is an online competition platform where creators can easily create and manage contests, and users can participate to test their skills and win exciting prizes. The system is built with three role-based dashboards: Admin, Creator, and User. Creators can publish new contests, while users can join contests and submit their performances. Admin has full control to manage the platform, including changing user roles and approving or rejecting contests to ensure quality and fairness. ContestHub aims to make online competitions simple, engaging, and secure for everyone.
+HomeNest is an online real estate platform where owners can list properties for rent or sale, and users can easily search and filter listings based on their preferences.
 
 🔗 Live Link: https://smart-home1-web-ed452.web.app
 🔗 GitHub Repo: https://github.com/lima-akter-p/smart-home-client
 
 ### 📸 Screenshot
 <img width="1810" height="900" alt="Screenshot 2026-04-18 185403" src="<img width="1760" height="956" alt="Screenshot 2025-12-31 164653" src="https://github.com/user-attachments/assets/37a31231-9bea-4024-8fc1-3733e2879a2a" />
-" />
+
+## 🚀 Project:ContestHub
+
+ContestHub is an online competition platform where creators can easily create and manage contests, and users can participate to test their skills and win exciting prizes. The system is built with three role-based dashboards: Admin, Creator, and User. Creators can publish new contests, while users can join contests and submit their performances. Admin has full control to manage the platform, including changing user roles and approving or rejecting contests to ensure quality and fairness. ContestHub aims to make online competitions simple, engaging, and secure for everyone.
+
+🔗 Live Link: https://contest-hub-client-f1f2b.web.app
+🔗 GitHub Repo: https://github.com/lima-akter-p/Assign-11-client
+### 📸 Screenshot
+<img width="1791" height="937" alt="image" src="https://github.com/user-attachments/assets/bdfb37de-ae7e-4112-a346-7bd2629677f4" />
+
+
+
 
 
 
