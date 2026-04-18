@@ -6,8 +6,8 @@
 
 A real-time chat application with messaging, audio & video calling.
 
-🔗 Live Link: https://your-live-link.com  
-🔗 GitHub Repo: https://github.com/your-username/project-name  
+🔗 Live Link: https://dash-chat-frontend.onrender.com
+🔗 GitHub Repo: https://github.com/somrat350/Dash-Chat  
 
 ### 📸 Screenshot
 ![Dash-Chat](./images/dashchat.png)
