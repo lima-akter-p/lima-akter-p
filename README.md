@@ -4,7 +4,7 @@
 <br><br>I am a passionate Frontend Developer with around 1 year of hands-on learning experience in modern web development. I enjoy turning ideas into responsive and user-friendly websites using JavaScript, React, and Next.js. I am constantly improving my skills by building projects, solving problems, and learning new technologies.<br>I am particularly interested in creating clean UI, improving user experience, and writing readable code. I am open to internships, entry-level roles, and collaborative projects where I can learn from others and contribute my growing skills. My goal is to continue developing as a frontend developer and work on real-world applications.
 ## 🚀 Project: Dash-Chat
 
-A real-time chat application with messaging, audio & video calling.
+Dash-Chat is a full-stack real-time communication platform featuring instant messaging, audio/video calls, friend requests, and privacy-focused user controls.It is a MERN-based real-time chat app using Socket.io and GetStream, supporting messaging, calls, and user management features.
 
 🔗 Live Link: https://dash-chat-frontend.onrender.com
 🔗 GitHub Repo: https://github.com/somrat350/Dash-Chat  
