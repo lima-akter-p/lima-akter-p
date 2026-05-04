@@ -21,7 +21,7 @@ HomeNest is an online real estate platform where owners can list properties for 
 🔗 GitHub Repo: https://github.com/lima-akter-p/smart-home-client
 
 ### 📸 Screenshot
-<img width="1810" height="900" alt="Screenshot 2026-04-18 185403" src="<img width="1760" height="956" alt="Screenshot 2025-12-31 164653" src="https://github.com/user-attachments/assets/37a31231-9bea-4024-8fc1-3733e2879a2a" />
+<img width="1810" height="900" alt="Screenshot 2026-04-18 185403"  src="https://github.com/user-attachments/assets/37a31231-9bea-4024-8fc1-3733e2879a2a" />
 
 ## 🚀 Project:ContestHub
 
